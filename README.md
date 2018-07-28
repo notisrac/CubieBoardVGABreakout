@@ -9,3 +9,6 @@ PCB for the vga output of the cubieboard: [https://github.com/cubieplayer/Cubian
 * 1x 74ACT08D (note: you need the ACT version for its speed)
 * 1x 100nF capacitor
 * Pin headers
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/CubieBoardVGABreakout)](https://github.com/igrigorik/ga-beacon)
